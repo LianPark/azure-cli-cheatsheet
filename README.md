@@ -1,2 +1,2 @@
-# azure-cli-cheatsheet
+# Azure-cli-cheatsheet
 Azure CLI Cheatsheet
