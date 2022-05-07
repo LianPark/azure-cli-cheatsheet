@@ -37,7 +37,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 # Azure Sign in
-command as `Install-Module -Name Az -Scope CurrentUser -Repository PSGallery -Force` is not workiing so just use `Install-Module Az`.
+command as `Install-Module -Name Az -Scope CurrentUser -Repository PSGallery -Force` isn't working so just use `Install-Module Az`.
 ```
 Connect-AzAccount
 ```
