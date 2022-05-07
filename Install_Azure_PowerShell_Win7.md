@@ -31,7 +31,11 @@ MachinePolicy       Undefined
   CurrentUser       Undefined
  LocalMachine    RemoteSigned
 ```
+### Set execution policy 
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
+# Refer
+## PowerShell disabled support for TLS 1.0 for the Gallery - Update-Module and Install-Module broken
+https://dev.to/darksmile92/powershell-disabled-support-for-tls-1-0-for-the-gallery-update-module-and-install-module-broken-1oii
